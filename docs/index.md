@@ -14,58 +14,58 @@ Graduate Student at Georgia Institute of Technology - Online Master's in Analyti
 ## Education
 
 `2022 - 2024 (expected)`
-*Georgia Institute of Technology – Atlanta, GA*
-__M.S. in Analytics__
-Track: Computational Data Analytics 
+__Georgia Institute of Technology__, Atlanta, GA
+- M.S. in Analytics
+- Track: Computational Data Analytics 
 
 `2020 - 2021`
-*Brigham Young University - Idaho – Rexburg, ID*
-__B.S. in Professional Studies__
-Certificates: Community Health Planning & Implementation, Epidemiology, Database, Web and Computer Programming
-GPA: 4.0
+__Brigham Young University - Idaho__, Rexburg, ID
+- B.S. in Professional Studies
+- Certificates: Community Health Planning & Implementation, Epidemiology, Database, Web and Computer Programming
+- GPA: 4.0
 
 `2020 – 2021`
-*Brigham Young University - Idaho – Rexburg, ID*
-__A.S. in Applied Technology__
-Certificates: Database, Web and Computer Programming
-Relevant Coursework: Database Design & Development, Database Programming (SQL, PL/SQL), Data Warehousing, Object-Oriented Programming, Web Frontend Development, JavaScript Language
-GPA: 4.0
+__Brigham Young University - Idaho__, Rexburg, ID
+- A.S. in Applied Technology
+- Certificates: Database, Web and Computer Programming
+- Relevant Coursework: Database Design & Development, Database Programming (SQL, PL/SQL), Data Warehousing, Object-Oriented Programming, Web Frontend Development, JavaScript Language
+- GPA: 4.0
 
-2004 - 2005
-*Brigham Young University Graduate School – Provo, UT*
-__Two Semesters of Graduate Work__
-Relevant Coursework: Sampling, Applied Linear Models, Introduction to Applied Bayesian Methods, Theory of Linear Models, Statistical Consulting
-GPA: 4.0 (2004), 3.47 (2005)
+`2004 - 2005`
+__Brigham Young University Graduate School__, Provo, UT
+- Two Semesters of Graduate Work
+- Relevant Coursework: Sampling, Applied Linear Models, Introduction to Applied Bayesian Methods, Theory of Linear Models, Statistical Consulting
+- GPA: 4.0 (2004), 3.47 (2005)
 
-1998 - 2002
-*Brigham Young University – Provo, UT*
-__B.S. in Statistics__
-Emphasis: Biostatistics
-Relevant Coursework: Methods of Survey Sampling, Statistical Methods, Matrix Computation, Statistical Computing, Teaching Statistics, Statistical Theory, Molecular Biology, General Microbiology, Organic Chemistry, Biochemistry, Genetics
-GPA: 3.81
+`1998 - 2002`
+__Brigham Young University__, Provo, UT
+- B.S. in Statistics
+- Emphasis: Biostatistics
+- Relevant Coursework: Methods of Survey Sampling, Statistical Methods, Matrix Computation, Statistical Computing, Teaching Statistics, Statistical Theory, Molecular Biology, General Microbiology, Organic Chemistry, Biochemistry, Genetics
+- GPA: 3.81
 
 
 
 ## Work History
 
-#### Senior Online Instructional Support Specialist
+### Senior Online Instructional Support Specialist
 
-April 2021 - Current
-__Brigham Young University - Idaho__ – Rexburg, ID
+`April 2021 - Current`
+__Brigham Young University - Idaho__, Rexburg, ID
 - Apply my skill and subject matter expertise to help students master course concepts and skills
 - Ensure accurate and consistent grading, actionable feedback, and timely turnaround.
 
-#### Academic Advisor
+### Academic Advisor
 
-July 2020 - April 2021
-__Brigham Young University Pathway Worldwide__ – Salt Lake City, UT
+`July 2020 - April 2021`
+__Brigham Young University Pathway Worldwide__, Salt Lake City, UT
 - Built positive relationships with online students attending BYU-Idaho
 - Assisted students with questions related to course planning, registration, degree components, etc.
 
-#### Data Manager
+### Data Manager
 
-2006 - 2008
-__Western Wats__ – Orem, UT
+`2006 - 2008`
+__Western Wats__, Orem, UT
 - Consulted with internal resources regarding quality of market research data
 - Managed all aspects of data processing according to client specifications
 - Consistently produced first-rate project deliverables
@@ -73,25 +73,19 @@ __Western Wats__ – Orem, UT
 
 ## Service
 
-2019 - 2021
+`2019 - 2021`
 __Choir Board__, Rocky Mountain High School
 
 
-2004 - 2005
+`2004 - 2005`
 __Service Missionary__, Houston, TX
 
 ## Computer Skills
-Excel — SQL — PL/SQL — Python — PANDAS — Altair — R — JavaScript - HTML & CSS
+- Excel, SQL, PL/SQL, Python, PANDAS, Altair, R, JavaScript, HTML & CSS
 
 
 ## Other Skills
-Problem Solving — Accuracy — Organization — Attention to Detail — Communication
-Teamwork — Teaching and Training Experience
+- Problem Solving, Accuracy, Organization, Attention to Detail, Communication, Teamwork, Teaching and Training Experience
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
