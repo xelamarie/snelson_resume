@@ -13,18 +13,18 @@ Graduate Student at Georgia Institute of Technology - Online Master's in Analyti
 
 ## Education
 
-2022 - 2024 (expected)
+`2022 - 2024 (expected)`
 *Georgia Institute of Technology – Atlanta, GA*
 __M.S. in Analytics__
 Track: Computational Data Analytics 
 
-2020 - 2021
+`2020 - 2021`
 *Brigham Young University - Idaho – Rexburg, ID*
 __B.S. in Professional Studies__
 Certificates: Community Health Planning & Implementation, Epidemiology, Database, Web and Computer Programming
 GPA: 4.0
 
-2020 – 2021
+`2020 – 2021`
 *Brigham Young University - Idaho – Rexburg, ID*
 __A.S. in Applied Technology__
 Certificates: Database, Web and Computer Programming
