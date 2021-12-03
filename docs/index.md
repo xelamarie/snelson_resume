@@ -85,7 +85,7 @@ __Service Missionary__, Houston, TX
 
 
 ## Other Skills
-- Problem Solving, Accuracy, Organization, Attention to Detail, Communication, Teamwork, Teaching and Training Experience
+- Problem Solving, Accuracy, Organization, Attention to Detail, Communication, Teamwork, Teaching, and Training Experience
 
 
 
